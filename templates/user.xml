@@ -1,0 +1,12 @@
+<templateSet group="user">
+  <template name="cst" value="    public function __construct($END$)&#10;    {&#10;    }" description="Create Constructor" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
+  <template name="inv" value="public function __invoke($END$)&#10;    {&#10;    }" description="__invoke function" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,34 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern=".env.local" type=".env file" />
+      <mapping pattern="generic.lib" type="Bash" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern=".php_cs.dist" type="PHP" />
+      <mapping ext="engine" type="PHP" />
+      <mapping ext="profile" type="PHP" />
+      <mapping ext="test" type="PHP" />
+      <mapping ext="theme" type="PHP" />
+      <mapping ext="install" type="PHP" />
+      <mapping pattern=".hhconfig" type="PLAIN_TEXT" />
+      <mapping pattern="cron" type="PLAIN_TEXT" />
+      <mapping pattern="dc_cron" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="de" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="foo_bar" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="MemberRole.php" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="CreateProduct" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env.local" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
+    </extensionMap>
+  </component>
+</application>

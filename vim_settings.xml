@@ -1,0 +1,252 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/nfq/dealcircle/excel/csv/general.csv" timestamp="1551945947684">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/nfq/dealcircle/admin-panel/vendor/php-amqplib/rabbitmq-bundle/RabbitMq/BaseAmqp.php" timestamp="1557286152464">
+        <mark key="[" line="166" column="5" />
+      </file>
+      <file name="$USER_HOME$/nfq/gks/gks-api/config/packages/sensio_framework_extra.yaml" timestamp="1557482136899">
+        <mark key="[" line="4" column="26" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/nfq/gks/admin-tool-mvp/login.php" timestamp="1557387184407">
+        <mark key="[" line="0" column="5" />
+      </file>
+      <file name="$USER_HOME$/nfq/gks/admin-tool-mvp/docker-compose.yml" timestamp="1557374891227">
+        <mark key="[" line="3" column="12" />
+        <mark key="]" line="3" column="11" />
+        <mark key="." line="3" column="11" />
+        <mark key="^" line="3" column="11" />
+      </file>
+      <file name="$USER_HOME$/php/src/github.com/tcs1902/guushop/docker-compose.yml" timestamp="1557633627164">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="24" column="26" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/nfq/gks/gks-api/docker-compose.yml" timestamp="1557460845118">
+        <mark key="[" line="18" column="13" />
+      </file>
+      <file name="$USER_HOME$/nfq/dealcircle/admin-panel/templates/profile/_avatar.html.twig" timestamp="1551411937271">
+        <mark key="[" line="14" column="6" />
+      </file>
+      <file name="$USER_HOME$/nfq/dealcircle/admin-panel/src/Import/DefaultImporter.php" timestamp="1557288411609">
+        <mark key="[" line="34" column="40" />
+      </file>
+      <file name="$USER_HOME$/nfq/gks/gks-api/readme.md" timestamp="1557460442597">
+        <mark key="'" line="6" column="1" />
+        <mark key="[" line="34" column="44" />
+        <mark key="]" line="34" column="50" />
+        <mark key="^" line="34" column="50" />
+        <mark key="." line="34" column="50" />
+      </file>
+      <file name="$USER_HOME$/nfq/gks/gks-api/tests/Controller/DefaultControllerTest.php" timestamp="1557486900733">
+        <mark key="[" line="20" column="36" />
+        <mark key="]" line="20" column="36" />
+        <mark key="^" line="21" column="32" />
+        <mark key="." line="20" column="36" />
+      </file>
+      <file name="$USER_HOME$/nfq/dealcircle/admin-panel/src/Form/Type/UserEditType.php" timestamp="1551413745273">
+        <mark key="[" line="48" column="42" />
+      </file>
+      <file name="$USER_HOME$/nfq/gks/gks-api/Dockerfile" timestamp="1557471575147">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="0" column="15" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="0" column="15" />
+      </file>
+      <file name="$USER_HOME$/php/src/github.com/tcs1902/guushop/.env" timestamp="1557633793341">
+        <mark key="[" line="14" column="29" />
+        <mark key="]" line="14" column="80" />
+        <mark key="." line="14" column="80" />
+        <mark key="^" line="14" column="80" />
+      </file>
+      <file name="$USER_HOME$/nfq/gks/gks-api/.env" timestamp="1557396905716">
+        <mark key="i" line="26" column="27" />
+        <mark key="[" line="26" column="27" />
+        <mark key="]" line="26" column="31" />
+        <mark key="." line="26" column="31" />
+        <mark key="^" line="26" column="31" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1551692812245">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/nfq/gks/gks-api/.php_cs.dist" timestamp="1557475224161">
+        <mark key="[" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/nfq/gks/admin-tool-mvp/index.php" timestamp="1557393093215">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/nfq/gks/admin-tool-mvp/inc/middleware.inc.php" timestamp="1557387154466">
+        <mark key="[" line="9" column="39" />
+      </file>
+      <file name="$USER_HOME$/nfq/dealcircle/admin-panel/tests/db/schema.sql" timestamp="1551693911030">
+        <mark key="[" line="17" column="32" />
+      </file>
+      <file name="$USER_HOME$/nfq/gks/gks-api/.docker/php/php.ini" timestamp="1557459654404">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/nfq/gks/admin-tool-mvp/dashboard.php" timestamp="1557387105007">
+        <mark key="[" line="0" column="5" />
+      </file>
+      <file name="$USER_HOME$/nfq/dealcircle/admin-panel/config/services_dev.yaml" timestamp="1557288289453">
+        <mark key="[" line="1" column="4" />
+      </file>
+      <file name="$USER_HOME$/nfq/dealcircle/excel/csv/pe.csv" timestamp="1551946052625">
+        <mark key="[" line="5" column="25" />
+      </file>
+      <file name="$USER_HOME$/nfq/gks/gks-api/composer.json" timestamp="1557475765798">
+        <mark key="'" line="3" column="30" />
+        <mark key="[" line="3" column="20" />
+        <mark key="]" line="12" column="34" />
+        <mark key="^" line="12" column="34" />
+        <mark key="." line="12" column="34" />
+      </file>
+      <file name="$USER_HOME$/nfq/gks/admin-tool-mvp/api/login.php" timestamp="1557387459769">
+        <mark key="[" line="25" column="50" />
+      </file>
+      <file name="$USER_HOME$/nfq/gks/admin-tool-mvp/oAuth2/oAuth2Client.php" timestamp="1557388103295">
+        <mark key="[" line="87" column="78" />
+        <mark key="]" line="87" column="76" />
+        <mark key="^" line="87" column="76" />
+        <mark key="." line="87" column="76" />
+      </file>
+      <file name="$USER_HOME$/nfq/gks/gks-api/src/Controller/DefaultController.php" timestamp="1557485156830">
+        <mark key="[" line="14" column="36" />
+        <mark key="]" line="14" column="36" />
+        <mark key="." line="14" column="36" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="1" column="0" filename="$USER_HOME$/symfonycasts/forms/start/templates/article_admin/new.html.twig" />
+      <jump line="33" column="8" filename="$USER_HOME$/symfonycasts/forms/start/src/Controller/ArticleAdminController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/symfonycasts/forms/start/src/Entity/Article.php" />
+      <jump line="70" column="68" filename="$USER_HOME$/nfq/dealcircle/admin-panel/templates/headers.html.twig" />
+      <jump line="62" column="0" filename="$USER_HOME$/nfq/dealcircle/admin-panel/templates/headers.html.twig" />
+      <jump line="86" column="117" filename="$USER_HOME$/nfq/dealcircle/admin-panel/templates/headers.html.twig" />
+      <jump line="82" column="0" filename="$USER_HOME$/nfq/dealcircle/admin-panel/templates/headers.html.twig" />
+      <jump line="12" column="20" filename="$USER_HOME$/nfq/dealcircle/admin-panel/templates/user/create.html.twig" />
+      <jump line="1" column="0" filename="$USER_HOME$/nfq/dealcircle/admin-panel/templates/user/create.html.twig" />
+      <jump line="4" column="0" filename="$USER_HOME$/nfq/dealcircle/admin-panel/templates/user/create.html.twig" />
+      <jump line="16" column="6" filename="$USER_HOME$/nfq/dealcircle/admin-panel/src/Controller/UserController.php" />
+      <jump line="4" column="0" filename="$USER_HOME$/nfq/dealcircle/admin-panel/src/Controller/UserController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/nfq/dealcircle/admin-panel/src/Controller/UserController.php" />
+      <jump line="3" column="78" filename="$USER_HOME$/nfq/dealcircle/admin-panel/templates/user/edit.html.twig" />
+      <jump line="100" column="76" filename="$USER_HOME$/nfq/dealcircle/admin-panel/templates/header.html.twig" />
+      <jump line="7" column="81" filename="$USER_HOME$/greenwich/comp1640/templates/header.html.twig" />
+      <jump line="72" column="49" filename="$USER_HOME$/greenwich/comp1640/composer.json" />
+      <jump line="479" column="111" filename="$USER_HOME$/nfq/dealcircle/admin-panel/templates/profile/index.html.twig" />
+      <jump line="473" column="0" filename="$USER_HOME$/nfq/dealcircle/admin-panel/templates/profile/index.html.twig" />
+      <jump line="6" column="1" filename="$USER_HOME$/nfq/dealcircle/admin-panel/templates/profile/index.html.twig" />
+      <jump line="23" column="71" filename="$USER_HOME$/nfq/dealcircle/admin-panel/templates/profile/edit.html.twig" />
+      <jump line="7" column="0" filename="$USER_HOME$/nfq/dealcircle/admin-panel/templates/profile/edit.html.twig" />
+      <jump line="52" column="194" filename="$USER_HOME$/nfq/dealcircle/admin-panel/templates/profile/edit.html.twig" />
+      <jump line="41" column="84" filename="$USER_HOME$/nfq/dealcircle/admin-panel/templates/profile/change_password.html.twig" />
+      <jump line="34" column="50" filename="$USER_HOME$/nfq/dealcircle/admin-panel/src/Controller/ProfileController.php" />
+      <jump line="33" column="0" filename="$USER_HOME$/nfq/dealcircle/admin-panel/src/Controller/ProfileController.php" />
+      <jump line="36" column="0" filename="$USER_HOME$/nfq/dealcircle/admin-panel/src/Controller/ProfileController.php" />
+      <jump line="41" column="0" filename="$USER_HOME$/nfq/dealcircle/admin-panel/src/Controller/ProfileController.php" />
+      <jump line="55" column="0" filename="$USER_HOME$/nfq/dealcircle/admin-panel/src/Controller/ProfileController.php" />
+      <jump line="62" column="0" filename="$USER_HOME$/nfq/dealcircle/admin-panel/src/Controller/ProfileController.php" />
+      <jump line="65" column="0" filename="$USER_HOME$/nfq/dealcircle/admin-panel/src/Controller/ProfileController.php" />
+      <jump line="70" column="0" filename="$USER_HOME$/nfq/dealcircle/admin-panel/src/Controller/ProfileController.php" />
+      <jump line="10" column="12" filename="$USER_HOME$/nfq/dealcircle/admin-panel/templates/profile/index.html.twig" />
+      <jump line="3" column="0" filename="$USER_HOME$/nfq/dealcircle/admin-panel/templates/profile/index.html.twig" />
+      <jump line="0" column="0" filename="$USER_HOME$/nfq/dealcircle/admin-panel/templates/company/index.html.twig" />
+      <jump line="31" column="30" filename="$USER_HOME$/nfq/dealcircle/admin-panel/src/Form/Type/CompanySearchType.php" />
+      <jump line="87" column="20" filename="$USER_HOME$/nfq/dealcircle/admin-panel/src/Repository/CompanyRepository.php" />
+      <jump line="22" column="5" filename="$USER_HOME$/nfq/dealcircle/admin-panel/src/Repository/CompanyRepository.php" />
+      <jump line="59" column="0" filename="$USER_HOME$/nfq/dealcircle/excel/index.php" />
+      <jump line="40" column="35" filename="$USER_HOME$/nfq/dealcircle/admin-panel/.env.local" />
+      <jump line="35" column="1" filename="$USER_HOME$/nfq/dealcircle/admin-panel/.env.local" />
+      <jump line="67" column="0" filename="$USER_HOME$/nfq/dealcircle/admin-panel/config/services_dev.yaml" />
+      <jump line="61" column="39" filename="$USER_HOME$/nfq/dealcircle/admin-panel/config/services.yaml" />
+      <jump line="69" column="0" filename="$USER_HOME$/nfq/dealcircle/admin-panel/config/services.yaml" />
+      <jump line="1" column="3" filename="$USER_HOME$/nfq/gks/admin-tool-mvp/Dockerfile" />
+      <jump line="6" column="1" filename="$USER_HOME$/nfq/gks/gks-api/readme.md" />
+      <jump line="3" column="30" filename="$USER_HOME$/nfq/gks/gks-api/composer.json" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>1</text>
+      </register>
+      <register name="-" type="4">
+        <text>1</text>
+      </register>
+      <register name="/" type="4">
+        <text>deal</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIExlYWd1ZVxGbHlzeXN0ZW1cRmlsZXN5c3RlbUludGVyZmFjZTogJ0BvbmV1cF9mbHlzeXN0ZW0uZ2Nsb3VkX2ZpbGVzeXN0ZW1fZmlsZXN5c3RlbScK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgUE1BX0hPU1Q6IGF3cy5jaG9vY3NpaGF3dnkuYXAtc291dGhlYXN0LTEucmRzLmFtYXpvbmF3cy5jb20K</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGVudmlyb25tZW50Ogo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgLSA4MAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHBvcnRzOgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGltYWdlOiBwaHBteWFkbWluL3BocG15YWRtaW4K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBwaHBteWFkbWluOgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgUE1BX0hPU1Q6IGF3cy5jaG9vY3NpaGF3dnkuYXAtc291dGhlYXN0LTEucmRzLmFtYXpvbmF3cy5jb20K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGVudmlyb25tZW50Ogo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgLSA4MAo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>wq!</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>deal</last-search>
+      <last-offset />
+      <last-pattern>deal</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>Create</entry>
+        <entry>@gmail</entry>
+        <entry>logo.svg</entry>
+        <entry encoding="base64">XDxyb2xlXD4=</entry>
+        <entry>mysql</entry>
+        <entry>deal</entry>
+      </history-search>
+      <history-cmd>
+        <entry>q!</entry>
+        <entry>w!</entry>
+        <entry>wq!</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
