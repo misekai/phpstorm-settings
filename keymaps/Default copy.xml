@@ -89,11 +89,20 @@
     <keyboard-shortcut first-keystroke="alt home" />
     <keyboard-shortcut first-keystroke="shift meta n" />
   </action>
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
   <action id="Sql.EditParameter">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="TodoViewGroupByShowPackages" />
   <action id="ToggleFullScreen" />
+  <action id="TypeHierarchy" />
+  <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="Uml.ShowDiff" />
   <action id="UnselectPreviousOccurrence">
     <keyboard-shortcut first-keystroke="shift ctrl g" />
@@ -103,6 +112,7 @@
     <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="Vcs.Log.Refresh" />
+  <action id="Vcs.QuickListPopupAction" />
   <action id="XDebugger.CopyWatch" />
   <action id="XDebugger.JumpToSource">
     <keyboard-shortcut first-keystroke="f4" />
