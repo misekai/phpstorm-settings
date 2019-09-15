@@ -51,6 +51,7 @@
   <action id="NavBar-navigate">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="NewScratchFile" />
   <action id="ParameterInfo" />
   <action id="ProfilerJumpToSource">
     <keyboard-shortcut first-keystroke="f4" />
@@ -86,6 +87,7 @@
   <action id="SendEOF" />
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt home" />
+    <keyboard-shortcut first-keystroke="shift meta n" />
   </action>
   <action id="Sql.EditParameter">
     <keyboard-shortcut first-keystroke="f4" />
