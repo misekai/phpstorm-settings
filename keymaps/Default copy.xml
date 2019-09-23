@@ -108,6 +108,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl g" />
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
+  <action id="UnsplitAll">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
   <action id="Vcs.EditSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
