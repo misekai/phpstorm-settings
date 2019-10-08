@@ -12,11 +12,12 @@
       <mapping ext="engine" type="PHP" />
       <mapping ext="test" type="PHP" />
       <mapping ext="theme" type="PHP" />
-      <mapping pattern="dc_cron" type="PLAIN_TEXT" />
       <mapping pattern=".hhconfig" type="PLAIN_TEXT" />
+      <mapping pattern="dc_cron" type="PLAIN_TEXT" />
       <mapping pattern="cron" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="de" type="PLAIN_TEXT" />
+      <mapping ext="db" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
