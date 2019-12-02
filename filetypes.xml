@@ -4,8 +4,6 @@
       <mapping pattern=".env.local" type=".env file" />
       <mapping pattern="" type="Dockerfile" />
       <mapping ext="ci" type="Dockerfile" />
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern=".php_cs.dist" type="PHP" />
       <mapping ext="profile" type="PHP" />
       <mapping ext="install" type="PHP" />
@@ -14,14 +12,13 @@
       <mapping ext="theme" type="PHP" />
       <mapping pattern=".hhconfig" type="PLAIN_TEXT" />
       <mapping pattern="scheduler" type="PLAIN_TEXT" />
-      <mapping pattern="dc_cron" type="PLAIN_TEXT" />
       <mapping pattern="app_cron" type="PLAIN_TEXT" />
       <mapping pattern="cron" type="PLAIN_TEXT" />
+      <mapping pattern="dc_cron" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="de" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="foo_bar" approved="true" type="PLAIN_TEXT" />
