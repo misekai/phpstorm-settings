@@ -18,4 +18,14 @@
       <option name="PHP Statement" value="true" />
     </context>
   </template>
+  <template name="mock" value="/** @var $Entity$|MockObject $$$entity$ */&#10;        $$$entity$ = $this-&gt;createMock($Entity$::class);&#10;        $$$entity$-&gt;method('$method$')&#10;            -&gt;willReturn($methodResult$);" description="Create Mock Object" toReformat="true" toShortenFQNames="true">
+    <variable name="Entity" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="entity" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="method" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="methodResult" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Expression" value="true" />
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
 </templateSet>
